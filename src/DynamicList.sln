@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicList.Core", "DynamicList.Core\DynamicList.Core.csproj", "{D49B39D5-0939-4DED-A4DF-7DBF73B98803}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tst40_RCL", "tst40_RCL\tst40_RCL.csproj", "{5199D624-12E6-4B8E-AD36-28D24D25515E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{DCD71E8B-E46B-4C00-B4EA-C30BB5ED43F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D49B39D5-0939-4DED-A4DF-7DBF73B98803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D49B39D5-0939-4DED-A4DF-7DBF73B98803}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D49B39D5-0939-4DED-A4DF-7DBF73B98803}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D49B39D5-0939-4DED-A4DF-7DBF73B98803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5199D624-12E6-4B8E-AD36-28D24D25515E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5199D624-12E6-4B8E-AD36-28D24D25515E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5199D624-12E6-4B8E-AD36-28D24D25515E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5199D624-12E6-4B8E-AD36-28D24D25515E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD71E8B-E46B-4C00-B4EA-C30BB5ED43F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD71E8B-E46B-4C00-B4EA-C30BB5ED43F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD71E8B-E46B-4C00-B4EA-C30BB5ED43F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD71E8B-E46B-4C00-B4EA-C30BB5ED43F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
